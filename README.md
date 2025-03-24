@@ -65,10 +65,6 @@ Desenvolvido com **Python**, **Flask**, e **Bootstrap**, oferecendo uma interfac
 
 Este projeto demonstra como integrar diferentes APIs para criar uma aplicação web funcional e interativa. Ao utilizar tecnologias como **Python**, **Flask** e **Bootstrap**, foi possível construir um site moderno, responsivo e com funcionalidades práticas, como a geração de conselhos aleatórios e a tradução automática.
 
-Além de aplicar conceitos importantes de programação, o projeto oferece oportunidades de expansão. Novas funcionalidades podem ser adicionadas, como salvar conselhos favoritos ou implementar autenticação de usuários. A publicação do site em plataformas como **Heroku**, **Render**, ou **Vercel** também é um passo importante para torná-lo acessível ao público.
-
-Por fim, este projeto serve como um excelente exemplo de como combinar aprendizado e prática para criar soluções úteis e criativas. Com isso, ele também pode ser uma peça valiosa para um portfólio de desenvolvedor.
-
 ---
 
 
