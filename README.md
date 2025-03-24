@@ -35,5 +35,41 @@ Desenvolvido com **Python**, **Flask**, e **Bootstrap**, oferecendo uma interfac
    ```bash
    git clone https://github.com/devMarlos/gerador-de--conselhos.git
    cd gerador-de--conselhos
+
+   
+2. Crie um Ambiente Virtual (opcional) Para garantir que as dependências sejam instaladas em um ambiente isolado:
+  ```bash
+   python -m venv venv
+   source venv/bin/activate # Linux/macOS
+   venv\Scripts\activate    # Windows
   ```
+
+3. Instale as Dependências Instale as dependências listadas no arquivo :
+  ```bash
+   pip install -r requirements.txt
+  ```
+
+4. Execute o Servidor Flask Inicie o servidor local:
+  ```bash
+   pyhon app.py
+  ```
+
+5. Acesse o Site Abra o navegador e acesse a URL (configurado na porta 8080):
+  ```bash
+  http://127.0.0.1:8080
+  ```
+
+---
+
+## Conclusão
+
+Este projeto demonstra como integrar diferentes APIs para criar uma aplicação web funcional e interativa. Ao utilizar tecnologias como **Python**, **Flask** e **Bootstrap**, foi possível construir um site moderno, responsivo e com funcionalidades práticas, como a geração de conselhos aleatórios e a tradução automática.
+
+Além de aplicar conceitos importantes de programação, o projeto oferece oportunidades de expansão. Novas funcionalidades podem ser adicionadas, como salvar conselhos favoritos ou implementar autenticação de usuários. A publicação do site em plataformas como **Heroku**, **Render**, ou **Vercel** também é um passo importante para torná-lo acessível ao público.
+
+Por fim, este projeto serve como um excelente exemplo de como combinar aprendizado e prática para criar soluções úteis e criativas. Com isso, ele também pode ser uma peça valiosa para um portfólio de desenvolvedor.
+
+---
+
+
 
