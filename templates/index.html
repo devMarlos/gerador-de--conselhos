@@ -1,0 +1,17 @@
+{% extends "template.html" %}
+{% block content %}
+
+
+
+<div style="margin: 20%;" class="card text-center">
+  <div class="card-header">
+    Conselho de hoje
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">{{conselhos}}</h5>
+  </div>
+  <a href="{{url_for('outro_conselho')}}" class="btn btn-primary">Outro conselho</a>
+</div>
+
+{% endblock %}
+
