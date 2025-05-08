@@ -51,7 +51,7 @@ Desenvolvido com **Python**, **Flask**, e **Bootstrap**, oferecendo uma interfac
 
 4. Execute o Servidor Flask Inicie o servidor local:
   ```bash
-   pyhon app.py
+   python app.py
   ```
 
 5. Acesse o Site Abra o navegador e acesse a URL (configurado na porta 8080):
